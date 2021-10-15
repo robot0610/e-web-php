@@ -1,0 +1,34 @@
+/* Nav Style */
+
+.nav {
+    margin-top: 5px;
+}
+
+.nav-list {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list-item{
+    list-style-type: none;
+    margin-right: 15px;
+    /* border: 1px solid red; */
+}
+
+.nav-list-item-link{
+    text-decoration: none;
+    color: lightslategray;
+    text-align: center;
+    padding: 6px 10px;
+    text-transform: uppercase;
+    border: 1px solid blue;
+    margin-right:10px;
+}
+
+.nav-sublist{
+    /* display: none; */
+    margin:0;
+    margin:0;
+}
