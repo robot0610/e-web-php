@@ -22,13 +22,35 @@ for($r=3;$r>=1;$r=$r-1)
 echo "<br>";
 echo "<br>";
 
-for($c=1;$c<=5;$c++)
-    {
-    echo "*";
-    }
+for($r=3;$r>=1;$r=$r-1)
 
-echo "<br>";
-echo "<br>";
+{
+    for($c=1;$c<=$r;$c++)
+    {
+        echo "*";
+    }
+    echo "<br>";
+}
+
+
+
+//for($c=1;$c<=$r2;$c++)
+  //  {
+    //echo "*";
+    //}
+//echo "<br>";
+
+//for($c=1;$c<=$r1;$c++)
+  //  {
+    //echo "*";
+    //}
+//echo "<br>";
+
+
+
+
+
+
 
 
 
