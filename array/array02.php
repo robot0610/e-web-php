@@ -38,8 +38,6 @@ for($i=0;$i<count($nine);$i++)
 
 
 
-
-
 ?>
     
 </body>
